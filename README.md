@@ -1,34 +1,26 @@
-# João Pedro
+$ whoami
 
-Building tools for thinking.
+João Pedro
 
----
+$ interests
 
-## Current interests
+decision systems
+software architecture
+AI
+automation
 
-- Architecture
-- Decision support systems
-- Automation
-- Artificial intelligence
-- Recommendation systems
-- Probabilistic thinking
+$ current_focus
 
----
+building better decision frameworks
 
-## What you'll find here
+$ status
 
-🧩 Small experiments
+learning in public
 
-⚙️ Automations
-
-📊 Decision frameworks
-
-🤖 AI projects
-
-🌱 Things I'm learning in public
-
----
-
-"The hardest part of software isn't coding.
-
-It's deciding what should happen."
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=joaopedro-marques&show_icons=true&theme=tokyonight"/>
+![](https://komarev.com/ghpvc/?username=joaopedro-marques)
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-marques&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro-marques&theme=tokyonight"/>
