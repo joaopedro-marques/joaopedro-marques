@@ -1,21 +1,34 @@
+# João Pedro
 
-Most software is built to execute decisions.
-
-I'm interested in software that helps create them.
-
----
-
-Inputs.
-Variables.
-Constraints.
-Trade-offs.
-Uncertainty.
-
-Those are the things I enjoy modeling.
-
-The repositories here are mostly attempts to understand and improve decision-making through software, automation and AI.
+Building tools for thinking.
 
 ---
 
-Currently learning.
-Always iterating.
+## Current interests
+
+- Architecture
+- Decision support systems
+- Automation
+- Artificial intelligence
+- Recommendation systems
+- Probabilistic thinking
+
+---
+
+## What you'll find here
+
+🧩 Small experiments
+
+⚙️ Automations
+
+📊 Decision frameworks
+
+🤖 AI projects
+
+🌱 Things I'm learning in public
+
+---
+
+"The hardest part of software isn't coding.
+
+It's deciding what should happen."
