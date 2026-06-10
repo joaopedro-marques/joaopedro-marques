@@ -1,4 +1,3 @@
-# João Pedro
 
 Most software is built to execute decisions.
 
