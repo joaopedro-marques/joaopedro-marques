@@ -1,16 +1,22 @@
-## Hi there 👋
+# João Pedro
 
-<!--
-**joaopedro-marques/joaopedro-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most software is built to execute decisions.
 
-Here are some ideas to get you started:
+I'm interested in software that helps create them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Inputs.
+Variables.
+Constraints.
+Trade-offs.
+Uncertainty.
+
+Those are the things I enjoy modeling.
+
+The repositories here are mostly attempts to understand and improve decision-making through software, automation and AI.
+
+---
+
+Currently learning.
+Always iterating.
