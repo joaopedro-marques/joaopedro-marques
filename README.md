@@ -82,6 +82,6 @@ I spend a lot of time thinking about what happens in the middle.
 
 ### Connect
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://www.linkedin.com/in/joao-pedro-marques-mourao/" />
+<a href="https://www.linkedin.com/in/joao-pedro-marques-mourao/" target="_blank">
+  <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
